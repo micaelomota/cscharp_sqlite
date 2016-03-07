@@ -6,3 +6,11 @@ C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revutres_desktop\revu
 C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.csproj.GenerateResource.Cache
 C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.exe
 C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.pdb
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\bin\Debug\revutres_desktop.exe.config
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.exe
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.pdb
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\bin\Debug\revutres_desktop.exe
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\bin\Debug\revutres_desktop.pdb
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.Form1.resources
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.Properties.Resources.resources
+C:\Users\micaelomota\Documents\Visual Studio 2015\Projects\revures_desktop\revutres_desktop\revutres_desktop\obj\Debug\revutres_desktop.csproj.GenerateResource.Cache
