@@ -1,0 +1,10 @@
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\bin\Debug\revures.exe.config
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\bin\Debug\revures.exe
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\bin\Debug\revures.pdb
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\obj\Debug\revures.Form1.resources
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\obj\Debug\revures.Properties.Resources.resources
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\obj\Debug\revures.csproj.GenerateResource.Cache
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\obj\Debug\revures.exe
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\obj\Debug\revures.pdb
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\bin\Debug\System.Data.SQLite.dll
+c:\users\micaelomota\documents\visual studio 2015\Projects\revures\revures\bin\Debug\System.Data.SQLite.xml

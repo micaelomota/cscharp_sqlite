@@ -36,6 +36,7 @@
             this.textBoxReceber = new System.Windows.Forms.TextBox();
             this.timerCOM = new System.Windows.Forms.Timer(this.components);
             this.serialPortCOM = new System.IO.Ports.SerialPort(this.components);
+            this.btn_add_teste = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_conectar
@@ -70,8 +71,9 @@
             // 
             this.textBoxEnviar.Location = new System.Drawing.Point(157, 71);
             this.textBoxEnviar.Name = "textBoxEnviar";
-            this.textBoxEnviar.Size = new System.Drawing.Size(474, 20);
+            this.textBoxEnviar.Size = new System.Drawing.Size(129, 20);
             this.textBoxEnviar.TabIndex = 3;
+            this.textBoxEnviar.TextChanged += new System.EventHandler(this.textBoxEnviar_TextChanged);
             // 
             // textBoxReceber
             // 
@@ -79,7 +81,7 @@
             this.textBoxReceber.Multiline = true;
             this.textBoxReceber.Name = "textBoxReceber";
             this.textBoxReceber.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textBoxReceber.Size = new System.Drawing.Size(592, 194);
+            this.textBoxReceber.Size = new System.Drawing.Size(247, 194);
             this.textBoxReceber.TabIndex = 4;
             // 
             // timerCOM
@@ -91,11 +93,22 @@
             // 
             this.serialPortCOM.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.serialPortCOM_DataReceived);
             // 
+            // btn_add_teste
+            // 
+            this.btn_add_teste.Location = new System.Drawing.Point(381, 39);
+            this.btn_add_teste.Name = "btn_add_teste";
+            this.btn_add_teste.Size = new System.Drawing.Size(75, 23);
+            this.btn_add_teste.TabIndex = 5;
+            this.btn_add_teste.Text = "ADD ";
+            this.btn_add_teste.UseVisualStyleBackColor = true;
+            this.btn_add_teste.Click += new System.EventHandler(this.btn_add_teste_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(669, 334);
+            this.Controls.Add(this.btn_add_teste);
             this.Controls.Add(this.textBoxReceber);
             this.Controls.Add(this.textBoxEnviar);
             this.Controls.Add(this.btn_enviar);
@@ -117,6 +130,7 @@
         private System.Windows.Forms.TextBox textBoxReceber;
         private System.Windows.Forms.Timer timerCOM;
         private System.IO.Ports.SerialPort serialPortCOM;
+        private System.Windows.Forms.Button btn_add_teste;
     }
 }
 

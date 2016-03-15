@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO.Ports;  // necessário para ter acesso as portas
 
+
 namespace revutres_desktop
 {
     public partial class Form1 : Form
@@ -134,6 +135,16 @@ namespace revutres_desktop
         {
             Console.Write("TESTE recebido");
             textBoxReceber.AppendText(resposta_arduino);
+        }
+
+        private void textBoxEnviar_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_add_teste_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine(" ADD ADD ADD ");
         }
     }
 }
